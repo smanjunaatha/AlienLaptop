@@ -9,7 +9,7 @@
 
   <name>StudentLaptop</name>
   <url>http://maven.apache.org</url>
-
+  <build>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
